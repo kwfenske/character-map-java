@@ -1,7 +1,7 @@
 
 ### Character Map (Java)
 
-by: Keith Fenske, http://kwfenske.github.io/
+by: Keith Fenske, https://kwfenske.github.io/
 
 CharMap is a Java 5.0 graphical (GUI) application to display Unicode characters
 or glyphs in text fonts, and copy those characters to the system clipboard. Its
@@ -21,7 +21,7 @@ Japanese "Kun" with "J", Korean with "K", Mandarin with "M", and Sino-Japanese
 "On" with "S". An English translation of CJK character definitions would have
 been more amusing but less practical.
 
-Download the ZIP file here: http://kwfenske.github.io/character-map-java.zip
+Download the ZIP file here: https://kwfenske.github.io/character-map-java.zip
 
 Released under the terms and conditions of the GNU General Public License,
 version 3 or later (GPLv3+).
